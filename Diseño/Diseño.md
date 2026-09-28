@@ -6,5 +6,5 @@ Este proyecto de la asignatura de Tecnología se basa en la exposición e intera
 - Colocación y estructuración viable.
 - Precio accesible.
 
-## Idea para este proyecto:
+## Idea para el proyecto:
 La idea consta de poner el mapa de poliespán de la provincia pegado con un pegamento específico de poliespán en una tabla de madera y esa misma ir atornillada a la pared. Seguidamente usaremos la ayuda de QR para la propia interacción con el mapa. Para que cuándo escanés el QR aparezca una página en la que te de información sobre ya sea un monumento o empresa de jaén y que al final de la página una vez leída toda su información te encuentres un botón y al pulsarlo que el monumento encienda sus luces para saber cual es el monumento, compañía que has leído su respectiva información u otra alternativa sería que al escanear el QR se enciendan al instante las luces del monumento o compañía que hayas escaneado.
