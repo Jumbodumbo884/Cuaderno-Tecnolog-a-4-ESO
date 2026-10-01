@@ -1,4 +1,6 @@
 # Exposición mapa 3D provincia de Jaén:
+<img width="1366" height="616" alt="image" src="https://github.com/user-attachments/assets/cd56cdbe-4807-4c0c-8a35-97487fad0daf" />
+
 Este proyecto de la asignatura de Tecnología se basa en la exposición e interacción del mapa de la provincia de Jaén. Para esto tendremos que buscar una solución viable, técnica y económicamente aceptable para su colocación e interacción con él. Este mapa se llevó a la FANTEC 2024 junto a los 7 mapas restantes del resto de las provincias Andaluzas. Ahora, 2 años después el instituto ha decidido poner el mapa visible en forma de exposición al resto del centro y para ello están en busca de ideas para ver de que forma el mapa será expuesto al resto del centro para que puedan visionar su provincia de forma cómoda, sencilla y sin ningún tipo de desplazamiento. A continuación la idea es la siguiente:
 
 ## Requisitos para hacer el proyecto:
@@ -14,4 +16,4 @@ Este grupo compuesto por Noah Lee y Guillermo Cuesta alumnos de 4 ESO se han jun
 - En primer lugar la zona de localización del mapa será en la parte trasera del ascensor de color azul situado enfrente de la biblioteca. Qué esta idea fue pensada por los dos.
 - En cuanto a colocación del mapa nos hemos quedado con la idea de Noah que consta en coger un a tabla de madera la cuál tendrá la forma del mapa de Jaén pero con menos vértices, después, lo sujetaremos a través de unos enganches de metal en forma de L para su propia sujeción. Estos estarían situados dos en la parte de abajo y uno arriba del mapa para evitar que se caiga hacia adelante. 
 - Y finalmente para la interacción con el mapa nos quedamos con mi idea la cuál consta de lo siguiente: a través de QR al ser escaneados nos encontraremos información de dicho monumento o empresa que hayamos escaneado y finalmente al final de su información nos encontraremos un botón que al ser pulsado encenderá las luces del monumento o empresa del cuál hayas leído su propia información.  
-1'62x96
+
