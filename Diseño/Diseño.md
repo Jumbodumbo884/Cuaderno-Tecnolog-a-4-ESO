@@ -19,6 +19,11 @@ La idea consta de poner el mapa de poliespán de la provincia pegado con un pega
 - Diseño en 3D.
 - Componentes Bluetooth.
 
+## Localización del mapa:
+<p align="center">
+<img width="289" height="641" alt="image" src="https://github.com/user-attachments/assets/29034e4e-2ccc-497f-9696-21c7e71baefe" />
+
+
 ## Idea a conjunto del proyecto:
 Este grupo compuesto por Noah Lee y Guillermo Cuesta alumnos de 4 ESO se han juntado para poner sus dos ideas en conjunto:
 - En primer lugar la zona de localización del mapa será en la parte trasera del ascensor de color azul situado enfrente de la biblioteca. Qué esta idea fue pensada por los dos.
