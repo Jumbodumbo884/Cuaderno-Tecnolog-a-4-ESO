@@ -17,8 +17,7 @@ La idea consta de poner el mapa de poliespán de la provincia pegado con un pega
 - Silueta del mapa de la provincia.
 - QR.
 - Diseño en 3D.
-- Componentes Blothooth y sus respectivos componenetes restantes.
-- Aprobación del profesor. 
+- Componentes Bluetooth.
 
 ## Idea a conjunto del proyecto:
 Este grupo compuesto por Noah Lee y Guillermo Cuesta alumnos de 4 ESO se han juntado para poner sus dos ideas en conjunto:
