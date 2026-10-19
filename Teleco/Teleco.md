@@ -1,2 +1,2 @@
-# Primera idea proyecto Teleco Games:
+# Idea individual proyecto Teleco Games:
 
