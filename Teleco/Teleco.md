@@ -76,7 +76,9 @@ Fomenta el cuidado de las plantas y la conciencia medioambiental.
 El sistema no solo cuidará de la planta, sino que también si detecta que la planta necesita agua, encenderá un LED rojo y emitirá un sonido de alarma. Si todo está bien, mostrará una luz verde.
 Incluso podría enviar mensajes orientativos para que sepas su estado:
 «¡Tengo más sed que un estudiante en un examen de Educación Física!»
+
 «¡Demasiado sol! No soy una croqueta en una freidora».
+
 «Gracias por regarme. Por fin haces algo útil con el móvil».
 
 ## 7. Conclusión
