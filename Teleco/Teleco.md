@@ -2,6 +2,10 @@
 Los Teleco Games (u Olimpiadas Nacionales de Telecomunicaciones) son una competición educativa y tecnológica en España dirigida a estudiantes preuniversitarios (ESO, Bachillerato y Ciclos Formativos de Grado Medio y Superior).
 Están organizadas por el COITT (Colegio Oficial de Ingenieros Técnicos de Telecomunicación), la asociación AEGITT y la conferencia CODIGAT, en colaboración con diversas escuelas universitarias de ingeniería de telecomunicación.
 
+<p align="center">
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/f68ce152-d6fc-48b4-aa28-d9f25fa1bf50" />
+
+
 ## Objetivos principales
 
 • Despertar vocaciones STEM: Fomentar el interés por la ciencia, la tecnología, la ingeniería y las matemáticas.
