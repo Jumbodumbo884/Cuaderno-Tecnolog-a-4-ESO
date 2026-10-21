@@ -57,7 +57,8 @@ Electrónica digital: la controladora procesará los datos, tomará decisiones y
 ### ODS 6: Agua limpia y saneamiento
 Reduce el desperdicio de agua gracias al riego automático cuando la planta realmente lo necesita.
 
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/d4822a89-c6c8-47d5-96cd-1ab53b81bd09" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/108ff249-1ae6-4db7-a447-84afd8036508" />
+
 
 ### ODS 12: Producción y consumo responsables
 Promueve el uso eficiente del agua y de los recursos.
