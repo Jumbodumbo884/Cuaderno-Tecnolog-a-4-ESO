@@ -75,4 +75,4 @@ Incluso podría enviar mensajes orientativos para que sepas su estado:
 «Gracias por regarme. Por fin haces algo útil con el móvil».
 
 ## 7. Conclusión
-Con Plantatrón 3000 quiero demostrar que la tecnología puede ser útil, divertida y respetuosa con el medioambiente. El proyecto combina sensores, una controladora, comunicaciones inalámbricas, ciberseguridad y electrónica analógica y digital para resolver un problema real: el desperdicio de agua y el descuido de las plantas.
+Con Plantatrón 3000 quiero demostrar que la tecnología puede ser útil, divertida y respetuosa con el medioambiente. El proyecto combina sensores, una controladora, comunicaciones inalámbricas y electrónica analógica y digital para resolver un problema real: el desperdicio de agua y el descuido de las plantas.
