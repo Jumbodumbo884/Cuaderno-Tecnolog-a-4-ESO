@@ -14,7 +14,7 @@ Están organizadas por el COITT (Colegio Oficial de Ingenieros Técnicos de Tele
 
 • Vincular con los ODS: Conectar los proyectos tecnológicos con los Objetivos de Desarrollo Sostenible (Agenda 2030).
 
-# Idea individual proyecto Teleco Games:
+# Idea individual proyecto Teleco Games: 1ª parte
  ## ¡El sistema espía que salva el planeta! 🌱🕵️
  <p align="center">
  <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/9abdbb1e-7fa7-4579-b9b6-f36a1a8fae3b" />
@@ -84,3 +84,22 @@ Incluso podría enviar mensajes orientativos para que sepas su estado:
 
 ## 7. Conclusión
 Con Plantatrón 3000 quiero demostrar que la tecnología puede ser útil, divertida y respetuosa con el medioambiente. El proyecto combina sensores, una controladora, comunicaciones inalámbricas y electrónica analógica y digital para resolver un problema real: el desperdicio de agua y el descuido de las plantas.
+
+## Elección grupal de la idea final a desarrollar: 2ª parte
+
+A continuación en esta segunda parte del proyecto la clase compuesta por ocho alumnos se ha dividido en dos grupos de cuatro para poner en común las diferentes ideas de proyectos de los integrantes del grupo para así finalmente quedarse a modo de elección uno de los cuatro trabajos propuestos por cada componente del grupo y trabajar en uno el equipo al completo para finalmente intentar sacar el proyecto adelante y llevarlo a la competición de TELECO-GAMES.
+
+Los integrantes de cada equipo son:
+
+| Nombre del equipo | Integrantes|
+| --------- | --------- |
+| Error 404-Cerebro no encontrado  | Lorenzo Manuel Latorre Martínez, Noah Lee Aguilar Schneider, Guillermo Cuesta Luque y Marco Fernández Manzaneda   | 
+| Los Hacker-Crustáceos  | Alejandro Reyes Delgado, Adrián Ordóñez Hernández, Daniel Boyano Lomas y Alberto Piñar López  | 
+
+Una vez hechos los equipos procedemos a trabajar el equipo a conjunto.
+En primer lugar nuestro punto de partida será la elección del proyecto a desarrollar, que finalmente nos decantamos por la idea de mi compañero Lorenzo Manuel Latorre Martínez y su Caseta de Pájaros Inteligente. En este proyecto hemos pensado en como añadir y modificar elementos pensando en la posibilidad de poder montar tanto técnicamente, económicamente y funcionalmente el proyecto.
+
+Como segundo punto a seguir y tener en cuenta, propusimos entre el equipo las medidas ideales que tendría que tener nuestra caseta para pájaros inteligente.
+En principio las medidas a tomar son 25x25x25( alto, ancho y profundidad ), con una puerta circular de unos 12 cm de diámetro y un techo de 8cm de altura en forma de triángulo sin base, como podemos llegar a ver en las historias de dibujos animados.
+
+En tercer lugar, pensamos los lugares óptimos para situar los diferentes componentes, ya que hay que tener en cuenta que bajo ninguna circunstancia estos estén al alcance de un pájaro ya que como es normal lo podrían picotear incluso romper debido a la curiosidad de estos individuos. Esto nos llevo a la conclusión de situar todos estos componentes en el techo de dicha caseta, ya que tendrán espacio más que de sobra para poder situarlos en este lugar. Al estar hueco y tener una altura considerable, caben todos los componentes sin ningún problema y encima están fuera de la vista y alcance de los diferentes individuos que entren a la caseta, como son el sensor de ultrasonido, la placa, el sensor de humedad y temperatura y los cables. De esa manera nos aseguramos que los componentes no sean visibles para el pájaro y podrán funcionar perfectamente sin necesidad de arriesgarse a que los componentes se deterioren o sufran daños. Para el sensor de humedad y temperatura, hemos inventado una especie de soporte para que, desde el techo, pueda analizar el ambiente en la caseta.
