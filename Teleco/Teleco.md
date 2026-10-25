@@ -103,3 +103,42 @@ Como segundo punto a seguir y tener en cuenta, propusimos entre el equipo las me
 En principio las medidas a tomar son 25x25x25( alto, ancho y profundidad ), con una puerta circular de unos 12 cm de diámetro y un techo de 8cm de altura en forma de triángulo sin base, como podemos llegar a ver en las historias de dibujos animados.
 
 En tercer lugar, pensamos los lugares óptimos para situar los diferentes componentes, ya que hay que tener en cuenta que bajo ninguna circunstancia estos estén al alcance de un pájaro ya que como es normal lo podrían picotear incluso romper debido a la curiosidad de estos individuos. Esto nos llevo a la conclusión de situar todos estos componentes en el techo de dicha caseta, ya que tendrán espacio más que de sobra para poder situarlos en este lugar. Al estar hueco y tener una altura considerable, caben todos los componentes sin ningún problema y encima están fuera de la vista y alcance de los diferentes individuos que entren a la caseta, como son el sensor de ultrasonido, la placa, el sensor de humedad y temperatura y los cables. De esa manera nos aseguramos que los componentes no sean visibles para el pájaro y podrán funcionar perfectamente sin necesidad de arriesgarse a que los componentes se deterioren o sufran daños. Para el sensor de humedad y temperatura, hemos inventado una especie de soporte para que, desde el techo, pueda analizar el ambiente en la caseta.
+
+El techo deberá contener una serie de agujeros para que los sensores puedan detectar los valores que necesiten leer (en su caso el de humedad, temperatura y el de ultrasonidos para la cantidad de comida, el cuál comentaremos posteriormente). Una vez realizado todo esto, pasamos al interior de la caseta. Aquí, solo se van a encontrar, el dispensador de comida y su respectivo recipiente donde caerá la comida, el dispensador de agua y su propio recipiente donde caerá el agua y su respectivo sensor de movimiento para detectar cuando entra y salen los pájaros. Ahora lo explicaremos paso a paso:
+
+·El dispensador de comida será muy sencillo, una caja pequeña en forma rectangular con una trampilla que estará controlada por el servomotor para dejar caer la comida del interior. Para controlar el servomotor, el sensor de presión va a ser el encargado de indicar cuando va a echar comida y parar de hacerlo. Este se va a encontrar debajo del recipiente donde va a caer la comida, y al detectar la presión dependiendo el nivel de comida que tenga el recipiente continuará el servo dejando pasar la comida o no. Después, para detectar cuánta comida hay en el dispensador, entra el ultrasonido en acción para hacer su respectiva función. Este, según la distancia que haya entre la comida y el sensor, va a enviar las señales a la placa. Si hay un nivel de distancia considerable entre el sensor y la comida, este enviará la señal de que hay que rellenar el dispensador. Por eso, en la base del techo se realizarán una serie de agujeros que permitan a los sensores detectar los diferentes valores necesarios. Por lo tanto, el dispensador de comida por arriba no tendrá ninguna tapadera, porque estará abierta para el ultrasonido posicionado en el techo.
+
+·El dispensador de agua será parecido al que tienen los hamsters pero con pequeñas modificaciones.
+
+·El sensor de movimiento se posicionará con un soporte justo en la entrada de la caseta, un poco escondido para que el pájaro no se de cuenta de él. Como su nombre indica, se va a encargar de detectar el movimiento del pájaro al entrar y salir de la caseta. Este va a ser un poco complejo de calibrar, pero una vez realizada la calibración, no hará falta hacer nada más por el estilo. Este va a ir sujeto a la parte de dentro de la puerta, lo más pegado posible a la pared para que sea lo menos visible posible.
+
+A continuación, hemos debatido ideas y hemos pensado que en el mejor lugar donde se puede colocar es a la entrada del instituto, donde se encuentran los árboles o donde se encuentra la pista de fútbol, en la parte trasera del centro. Posteriormente a los Teleco Games, se decidirá la idea y sitio donde se colocará finalmente.
+
+Para que los cables no estén a la vista de los pájaros, se imprimirán una serie de canales en los que se encuentren dentro los cables. Principalmente, va a ir dirigido al servomotor del dispensador de comida y al sensor de movimiento
+
+A continuación tenemos una tabla con los diferentes componentes y materiales que se van a utilizar para este proyecto, explicando su respectiva función de cada uno:
+
+| Materiales y componentes | Función |
+| --- | ---| 
+| ``Sensor de movimiento`` | Este se va a encargar de detectar cuando entra o sale un pájaro de la caseta. Solo tiene dos valores, ``HIGH`` o ``LOW``. |
+| ``Sensor de temperatura y humedad`` | Como dice su nombre, este va a detectar la temperatura y la humedad, la calidad de la caseta y de como se va a encontrar dentro el pájaro de la caseta. |
+| ``Sensor ultrasonido`` | Se va a encargar de detectar la cantidad de la comida en función de la distancia que lea. Si detecta que hay mucha distancia, mandará la señal de rellenar el dispensador. |
+| ``Sensor de presión`` | Detectará la cantoidad de comida que se encuentra en el comedero. Si detecta que hay mucha comida, le dirá al servomotor que no eche comida, y si hay poca, le dirá que eche. |
+| ``Servomotor`` | Se encargará de regular la trampilla que dejará pasar la comida. Estará regulado casi en su totalidad por el sensor de ultrasonido y de presión. |
+| ``Placa ESP32 Plus`` | Se va a encargar de controlar todos los componentes, absolutamente todos.|
+| ``Depósito-dispensador de comida`` | Este es el que va a tener la comida dentro. No tendrá tapa, para que el ultrasonido detecte la cantidad de comida. |
+| ``Sensor de nivel de agua (x2)`` | Detectará el nivel de agua que tiene tanto el dispensador de agua como el depósito. |
+| ``Dispensador de agua`` | |
+| ``Bomba de agua+tubo`` | La bomba de agua se encargará de recebar el agua a través del tubo en el dispensador de agua. |
+| ``Depósito donde guardar el agua`` | Se encargará de guardar el agua que posteriormente va dirigida al dispensador.  |
+| ``Cables`` | Conectarán todos los componentes a la placa. |
+| ``Madera contrachapada`` | Material que utilizaremos para crear la estructura de la caseta. | 
+| ``Filamento`` | Material que utilizaremos para imprimir las estructuras que deseemos en 3D. |
+| ``Cortadora láser`` | Nos ayudará a crear y cortar la madera contrachapada para la estructura de la caseta. |
+| ``Impresora 3D`` | Imprimirá los canales de los cables y otros elementos (como el dispensador de comida y agua). |
+
+Para poder controlar los diferentes valores que recibamos de la caseta, hemos pensado en crear una página web, a la que la placa enviará todos esos valores. Se comunicará por vía Wi-Fi, al estar disponible la misma del centro la usaremos porque tiene un mayor rango que el Bluetooth. Esta página web en cuestión va a tener diferentes apartados donde vamos a poder conocer la temperatura y el nivel de humedad, la cantidad de comida que hay en el dispensador, el nivel de agua que que tiene el dispensador o el depósito, la cantidad de comida que hay en el comedero y cosas por el estilo en general, todos los valores se podrán visualizar aquí. No todo el mundo tendrá acceso a la página web, solo usuarios autorizados que accedan a ella mediante un usuario y una contraseña o una llave de seguridad física (como puede ser una llave USB o un chip NFC).
+
+Diseño a partir de papel:
+<p align="center">
+<img width="1542" height="2047" alt="image" src="https://github.com/user-attachments/assets/938baa36-d407-4234-b6e6-2f02789bfca3" />
