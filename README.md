@@ -6,7 +6,7 @@ Este cuaderno será utilizado en la asignatura de Tecnología de 4 ESO para en e
 
 | Nombre de cada carpeta | Enlace a la carpeta |
 | ------------ | ------------ | 
-| Fila 1, Col 1| Fila 1, Col 2| 
+| Diseño| [Acceso a diseño]| 
 | Fila 2, Col 1| Fila 2, Col 2| 
 
 
