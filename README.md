@@ -7,7 +7,7 @@ Este cuaderno será utilizado en la asignatura de Tecnología de 4 ESO para en e
 | Nombre de cada carpeta | Enlace a la carpeta |
 | ------------ | ------------ | 
 | Diseño| [Acceso a diseño](https://github.com/Jumbodumbo884/Cuaderno-Tecnolog-a-4-ESO/tree/main/Dise%C3%B1o)| 
-| Fila 2, Col 1| Fila 2, Col 2| 
+| Electrónica Básica| [Acceso a electrónica básica](https://github.com/Jumbodumbo884/Cuaderno-Tecnolog-a-4-ESO/tree/main/Electr%C3%B3nica%20B%C3%A1sica) | 
 
 
 
