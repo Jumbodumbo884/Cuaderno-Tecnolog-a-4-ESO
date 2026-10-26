@@ -18,6 +18,8 @@ Están organizadas por el COITT (Colegio Oficial de Ingenieros Técnicos de Tele
  ## ¡El sistema espía que salva el planeta! 🌱🕵️
  <p align="center">
  <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/9abdbb1e-7fa7-4579-b9b6-f36a1a8fae3b" />
+  
+**Imagen generada por la IA Chatgpt**
 
 ## 1. Nombre del proyecto
 Plantatrón 3000: el sistema que te riñe si no riegas la planta.
