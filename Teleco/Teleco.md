@@ -141,6 +141,10 @@ A continuación tenemos una tabla con los diferentes componentes y materiales qu
 
 Para poder controlar los diferentes valores que recibamos de la caseta, hemos pensado en crear una página web, a la que la placa enviará todos esos valores. Se comunicará por vía Wi-Fi, al estar disponible la misma del centro la usaremos porque tiene un mayor rango que el Bluetooth. Esta página web en cuestión va a tener diferentes apartados donde vamos a poder conocer la temperatura y el nivel de humedad, la cantidad de comida que hay en el dispensador, el nivel de agua que que tiene el dispensador o el depósito, la cantidad de comida que hay en el comedero y cosas por el estilo en general, todos los valores se podrán visualizar aquí. No todo el mundo tendrá acceso a la página web, solo usuarios autorizados que accedan a ella mediante un usuario y una contraseña o una llave de seguridad física (como puede ser una llave USB o un chip NFC).
 
-Diseño a partir de papel:
+**Diseño a partir de papel:**
 <p align="center">
 <img width="1542" height="2047" alt="image" src="https://github.com/user-attachments/assets/938baa36-d407-4234-b6e6-2f02789bfca3" />
+
+**Diseño de tinkercad:**
+
+https://www.tinkercad.com/things/lpI2e0JY4fd-angry-birds/edit?sharecode=V7IU5cEKl-i72cRJjUZEQnJeh95SBrUwiVOSkxSyzOs
