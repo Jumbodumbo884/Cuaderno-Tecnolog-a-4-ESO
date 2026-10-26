@@ -123,7 +123,7 @@ A continuación tenemos una tabla con los diferentes componentes y materiales qu
 | ``Sensor de movimiento`` | Este se va a encargar de detectar cuando entra o sale un pájaro de la caseta. Solo tiene dos valores, ``HIGH`` o ``LOW``. |
 | ``Sensor de temperatura y humedad`` | Como dice su nombre, este va a detectar la temperatura y la humedad, la calidad de la caseta y de como se va a encontrar dentro el pájaro de la caseta. |
 | ``Sensor ultrasonido`` | Se va a encargar de detectar la cantidad de la comida en función de la distancia que lea. Si detecta que hay mucha distancia, mandará la señal de rellenar el dispensador. |
-| ``Sensor de presión`` | Detectará la cantoidad de comida que se encuentra en el comedero. Si detecta que hay mucha comida, le dirá al servomotor que no eche comida, y si hay poca, le dirá que eche. |
+| ``Sensor de presión`` | Detectará la cantidad de comida que se encuentra en el comedero. Si detecta que hay mucha comida, le dirá al servomotor que no eche comida, y si hay poca, le dirá que eche. |
 | ``Servomotor`` | Se encargará de regular la trampilla que dejará pasar la comida. Estará regulado casi en su totalidad por el sensor de ultrasonido y de presión. |
 | ``Placa ESP32 Plus`` | Se va a encargar de controlar todos los componentes, absolutamente todos.|
 | ``Depósito-dispensador de comida`` | Este es el que va a tener la comida dentro. No tendrá tapa, para que el ultrasonido detecte la cantidad de comida. |
