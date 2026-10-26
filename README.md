@@ -10,15 +10,4 @@ Este cuaderno será utilizado en la asignatura de Tecnología de 4 ESO para en e
 | Electrónica Básica| [Acceso a electrónica básica](https://github.com/Jumbodumbo884/Cuaderno-Tecnolog-a-4-ESO/tree/main/Electr%C3%B3nica%20B%C3%A1sica) | 
 | Neumática | [Acceso a neumática](https://github.com/Jumbodumbo884/Cuaderno-Tecnolog-a-4-ESO/tree/main/Neum%C3%A1tica)|
 | ODS | [Acceso a ODS](https://github.com/Jumbodumbo884/Cuaderno-Tecnolog-a-4-ESO/tree/main/ODS)|
-| Teleco Games| [Acceso a Teleco Games](https://github.com/Jumbodumbo884/Cuaderno-Tecnolog-a-4-ESO/tree/main/Teleco)|
-
-
-
-
-📚 Índice de contenidos
-Nombre de la carpeta	Enlace
-Diseño	Acceder a Diseño
-Electrónica Básica	Acceder a Electrónica Básica
-Neumática	Acceder a Neumática
-ODS	Acceder a ODS
-TELECO-GAMES	Acceder a TELECO-GAMES
+| Teleco Games| [Acceso a Teleco Games](https://github.com/Jumbodumbo884/Cuaderno-Tecnolog-a-4-ESO/tree/main/Teleco)
