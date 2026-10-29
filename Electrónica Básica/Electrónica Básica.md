@@ -1,1 +1,8 @@
 # Tipos analógicos de dispositivos electrónicos:
+Resistencias fijas:
+Resistencias variables (potenciómetros, NTC, PTC y LDR):
+Condensadores:
+Diodos:
+LED:
+Transistores:
+Relés:
