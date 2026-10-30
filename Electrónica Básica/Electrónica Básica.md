@@ -16,6 +16,7 @@
 
 **Calculo para saber entre que dos valores debe estar la resistencia para que sea válida:**
 5% de 1000= 5x1000 dividido entre 100=50
+
 Valores entre los que esta la resistencia: (950-**1000**-1050)
 
 # LDR y Potenciómetro:
