@@ -18,7 +18,7 @@
 
 5% de 1000= 5x1000 dividido entre 100=50
 
-Valores entre los que esta la resistencia: (950-**1000**-1050)
+**Valores entre los que esta la resistencia:** (950-**1000**-1050)
 
 # LDR y Potenciómetro:
 | Nombre | Función | Valor cerca de la luz | Valor sin nada de luz| Imagen |
