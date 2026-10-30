@@ -15,6 +15,7 @@
 | Marrón, Negro, Rojo, Dorado    | 1000 +-5%   | 990 | <img width="159" height="135" alt="image" src="https://github.com/user-attachments/assets/088351fc-950e-499b-9aa2-63616bcce166" />|
 
 **Calculo para saber entre que dos valores debe estar la resistencia para que sea válida:**
+
 5% de 1000= 5x1000 dividido entre 100=50
 
 Valores entre los que esta la resistencia: (950-**1000**-1050)
