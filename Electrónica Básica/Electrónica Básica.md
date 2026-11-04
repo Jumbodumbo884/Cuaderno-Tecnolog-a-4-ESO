@@ -30,4 +30,5 @@
 | Potenciómetro   | Variar y controlar la resistencia eléctrica en un circuito, lo que a su vez permite regular el voltaje (como un divisor de tensión) o la intensidad de la corriente.   | 435.000 | 240.000 | 103.000 | <img width="315" height="188" alt="image" src="https://github.com/user-attachments/assets/ee46f562-0516-4298-a462-d39450ab4c53" />
 
 # Circuito con condensador:
+tiempo: 07:12
 
