@@ -30,5 +30,11 @@
 | Potenciómetro   | Variar y controlar la resistencia eléctrica en un circuito, lo que a su vez permite regular el voltaje (como un divisor de tensión) o la intensidad de la corriente.   | 435.000 | 240.000 | 103.000 | <img width="315" height="188" alt="image" src="https://github.com/user-attachments/assets/ee46f562-0516-4298-a462-d39450ab4c53" />
 
 # Circuito con condensador:
-tiempo: 07:12 o 07:13
+| Nombre | Función del condensador | Tiempo | Imagen del circuito| Imagen del condensador|
+| --- | --- | --- | --- | ---|
+| Condensador | Varía según el ámbito en el que se utilice, siendo los dos principales la electrónica y la refrigeración/climatización.| 07:12-07:13 | <img width="181" height="132" alt="image" src="https://github.com/user-attachments/assets/617f141c-e334-4802-9a09-03b5857f12bf" />| <img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/7448a04b-60b1-431a-8fe1-03fd34bcdd38" />
+
+
+
+tiempo: 07:12 o 07:13 o 07:08 o 
 
