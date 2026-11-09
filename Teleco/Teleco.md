@@ -95,8 +95,8 @@ Los integrantes de cada equipo son:
 
 | Nombre del equipo | Integrantes|
 | --------- | --------- |
-| Error 404-Cerebro no encontrado  | Lorenzo Manuel Latorre Martínez, Noah Lee Aguilar Schneider, Guillermo Cuesta Luque y Marco Fernández Manzaneda   | 
-| Los Hacker-Crustáceos  | Alejandro Reyes Delgado, Adrián Ordóñez Hernández, Daniel Boyano Lomas y Alberto Piñar López  | 
+| Error 404-Cerebro no encontrado  | Lorenzo Manuel Latorre Martínez (Capi), Noah Lee Aguilar Schneider, Guillermo Cuesta Luque y Marco Fernández Manzaneda   | 
+| Los Hacker-Crustáceos  | Alejandro Reyes Delgado (Capi), Adrián Ordóñez Hernández, Daniel Boyano Lomas y Alberto Piñar López  | 
 
 Una vez hechos los equipos procedemos a trabajar el equipo a conjunto.
 En primer lugar nuestro punto de partida será la elección del proyecto a desarrollar, que finalmente nos decantamos por la idea de mi compañero Lorenzo Manuel Latorre Martínez y su Caseta de Pájaros Inteligente. En este proyecto hemos pensado en como añadir y modificar elementos pensando en la posibilidad de poder montar tanto técnicamente, económicamente y funcionalmente el proyecto.
