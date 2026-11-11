@@ -10,9 +10,9 @@
 | Relés | Permite controlar un circuito de alta potencia o voltaje utilizando una señal de control de baja potencia.| <img width="191" height="180" alt="image" src="https://github.com/user-attachments/assets/9c20eed6-dd19-414c-9c2d-434cfc5f18f5" />|
 
 # Resistencia tipo: Marrón, Negro, Rojo, Dorado
-| Colores | Valor general de la resistencia | Valor real resistencia | Imagen |
-| --------- | --------- | --------- | --------- |
-| Marrón, Negro, Rojo, Dorado    | 1000 +-5%   | 990 | <img width="159" height="135" alt="image" src="https://github.com/user-attachments/assets/088351fc-950e-499b-9aa2-63616bcce166" />|
+| ¿Qué es? | Colores | Valor general de la resistencia | Valor real resistencia | Imagen |
+| --------- | --------- | --------- | --------- | --------- |
+| Es un componente fabricado especialmente para limitar el flujo de corriente en un circuito, reducir el voltaje o disipar energía en forma de calor. | Marrón, Negro, Rojo, Dorado    | 1000 +-5%   | 990 | <img width="159" height="135" alt="image" src="https://github.com/user-attachments/assets/088351fc-950e-499b-9aa2-63616bcce166" />|
 
 **Calculo para saber entre que dos valores debe estar la resistencia para que sea válida:**
 
