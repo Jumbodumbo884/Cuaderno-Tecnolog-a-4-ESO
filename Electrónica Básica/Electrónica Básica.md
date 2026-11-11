@@ -34,3 +34,7 @@
 | --- | --- | --- | --- | ---| --- |
 | Condensador | Varía según el ámbito en el que se utilice, siendo los dos principales la electrónica y la refrigeración/climatización.| 7.12''-07.13''-7.08''-7.58''-7.34''-7.46'' | 7,29''| <img width="181" height="132" alt="image" src="https://github.com/user-attachments/assets/617f141c-e334-4802-9a09-03b5857f12bf" />| <img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/7448a04b-60b1-431a-8fe1-03fd34bcdd38" />|
 
+# Práctica con un diodo LED (verde):
+| Nombre | Color | Función | Fórmula | Cálculo | Valor de la resistencia | Intensidad del LED | Voltaje del LED |
+| ------------ | ------------ | ------------ | --------- | --------- | --------- | --------- | --------- |
+| LED| Verde | La función principal de un diodo LED (diodo emisor de luz) es transformar la energía eléctrica en luz mediante el fenómeno físico de la electroluminiscencia.| R=(V<sub>fuente</sub>-V<sub>LED</sub>)/I<sub>LED</sub> | 220Ω=(V<sub>fuente</sub>-2'4V)/0'0175A→ 220Ω*0'0175A+2'4V= 6'8
