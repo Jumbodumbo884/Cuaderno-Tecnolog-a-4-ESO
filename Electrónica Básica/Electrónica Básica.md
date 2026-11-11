@@ -23,7 +23,7 @@
 # LDR y Potenciómetro:
 | Nombre | Función | Valor cerca de la luz | Valor sin nada de luz| Imagen |
 | --------- | --------- | --------- | --------- | --------- |
-| LDR   | Sirve como sensor de luz para detectar los cambios de iluminación en el ambiente.  | 830 | 3.450 | <img width="148" height="147" alt="image" src="https://github.com/user-attachments/assets/663525cc-2976-453e-a263-077f51983602" />
+| LDR   | Un LDR (Light Dependent Resistor o fotorresistencia) es un componente electrónico cuya resistencia eléctrica cambia en función de la cantidad de luz que incide sobre su superficie. | 830 | 3.450 | <img width="148" height="147" alt="image" src="https://github.com/user-attachments/assets/663525cc-2976-453e-a263-077f51983602" />
 
 | Nombre | Función | Valor total | Valor lado izquierdo| Valor lado derecho | Imagen |
 | --------- | --------- | --------- | --------- | --------- | --------- |
