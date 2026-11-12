@@ -32,7 +32,7 @@
 # Circuito con condensador:
 | Nombre | Función del condensador | Tiempos | Media de tiempos |Imagen del circuito| Imagen del condensador|
 | --- | --- | --- | --- | ---| --- |
-| Condensador | Varía según el ámbito en el que se utilice, siendo los dos principales la electrónica y la refrigeración/climatización.| 7.12''-7.13''-7.08''-7.58''-7.34''-7.46'' | 7,29''| <img width="181" height="132" alt="image" src="https://github.com/user-attachments/assets/617f141c-e334-4802-9a09-03b5857f12bf" />| <img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/7448a04b-60b1-431a-8fe1-03fd34bcdd38" />|
+| Condensador | Varía según el ámbito en el que se utilice, siendo los dos principales la electrónica y la refrigeración/climatización.| 7.12''-7.13''-7.08''-7.58''-7.34''-7.46'' | 7.29''| <img width="181" height="132" alt="image" src="https://github.com/user-attachments/assets/617f141c-e334-4802-9a09-03b5857f12bf" />| <img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/7448a04b-60b1-431a-8fe1-03fd34bcdd38" />|
 
 # Práctica con un diodo LED (verde):
 | Nombre | Color | Función | Fórmula | Cálculo | Valor de la resistencia | Intensidad del LED | Voltaje del LED | Imagen |
