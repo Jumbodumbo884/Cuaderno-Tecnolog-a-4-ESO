@@ -21,9 +21,9 @@
 **Valores entre los que debe estar la resistencia para que sea válida:** (950-**1000**-1050)
 
 # LDR y Potenciómetro:
-| Nombre | Función | Valor cerca de la luz | Valor sin nada de luz| Imagen |
+| Nombre | Función | Valor con luz ambiental | Valor sin nada de luz| Imagen |
 | --------- | --------- | --------- | --------- | --------- |
-| LDR   | Un LDR (Light Dependent Resistor o fotorresistencia) es un componente electrónico cuya resistencia eléctrica cambia en función de la cantidad de luz que incide sobre su superficie. | 830 | 3.450 | <img width="148" height="147" alt="image" src="https://github.com/user-attachments/assets/663525cc-2976-453e-a263-077f51983602" />
+| LDR   | Un LDR (Light Dependent Resistor o fotorresistencia) es un componente electrónico cuya resistencia eléctrica cambia en función de la cantidad de luz que incide sobre su superficie. | 830Ω | 3.450Ω | <img width="148" height="147" alt="image" src="https://github.com/user-attachments/assets/663525cc-2976-453e-a263-077f51983602" />
 
 | Nombre | Función | Valor total | Valor lado izquierdo| Valor lado derecho | Imagen |
 | --------- | --------- | --------- | --------- | --------- | --------- |
@@ -37,5 +37,5 @@
 # Práctica con un diodo LED (verde):
 | Nombre | Color | Función | Fórmula | Cálculo | Valor de la resistencia | Intensidad del LED | Voltaje del LED | Imagen |
 | ------------ | ------------ | ------------ | --------- | --------- | --------- | --------- | --------- | --------- |
-| LED| Verde | La función principal de un diodo LED (diodo emisor de luz) es transformar la energía eléctrica en luz mediante el fenómeno físico de la electroluminiscencia.| R=(V<sub>fuente</sub>-V<sub>LED</sub>)/I<sub>LED</sub> | 220Ω=(V<sub>fuente</sub>-2'4V)/0'0175A→ 220Ω*0'0175A+2'4V= 6'8V | 220Ω | 0,0175A | 2,4V | <img width="547" height="547" alt="image" src="https://github.com/user-attachments/assets/19d11b17-4bdf-4388-8b91-e858e1498231" />
+| LED| Verde | La función principal de un diodo LED (diodo emisor de luz) es transformar la energía eléctrica en luz mediante el fenómeno físico de la electroluminiscencia.| R=(V<sub>fuente</sub>-V<sub>LED</sub>)/I<sub>LED</sub> | 220Ω=(V<sub>fuente</sub>-2'4V)/0'0175A→ 220Ω*0'0175A+2'4V= 6'8V | 220Ω | 0,0175A | 2,4V | <img width="847" height="847" alt="image" src="https://github.com/user-attachments/assets/19d11b17-4bdf-4388-8b91-e858e1498231" />
 
