@@ -37,4 +37,4 @@
 # Práctica con un diodo LED (verde):
 | Nombre | Color | Función | Fórmula | Cálculo | Valor de la resistencia | Intensidad del LED | Voltaje del LED |
 | ------------ | ------------ | ------------ | --------- | --------- | --------- | --------- | --------- |
-| LED| Verde | La función principal de un diodo LED (diodo emisor de luz) es transformar la energía eléctrica en luz mediante el fenómeno físico de la electroluminiscencia.| R=(V<sub>fuente</sub>-V<sub>LED</sub>)/I<sub>LED</sub> | 220Ω=(V<sub>fuente</sub>-2'4V)/0'0175A→ 220Ω*0'0175A+2'4V= 6'8
+| LED| Verde | La función principal de un diodo LED (diodo emisor de luz) es transformar la energía eléctrica en luz mediante el fenómeno físico de la electroluminiscencia.| R=(V<sub>fuente</sub>-V<sub>LED</sub>)/I<sub>LED</sub> | 220Ω=(V<sub>fuente</sub>-2'4V)/0'0175A→ 220Ω*0'0175A+2'4V= 6'8V |
