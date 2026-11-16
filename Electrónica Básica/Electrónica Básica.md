@@ -41,3 +41,15 @@
 | ------------ | ------------ | ------------ | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | LED| Verde | La función principal de un diodo LED (diodo emisor de luz) es transformar la energía eléctrica en luz mediante el fenómeno físico de la electroluminiscencia.| Calcular el voltaje de la fuente de alimentación necesaria para hacer funcionar un diodo LED verde sabiendo que está protegido por una resistencia de 220 ohmios y sabiendo que la intensidad del  LED es de 0,0175A |  R=(V<sub>fuente</sub>-V<sub>LED</sub>)/I<sub>LED</sub> | 220Ω=(V<sub>fuente</sub>-2'4V)/0'0175A→ 220Ω*0'0175A+2'4V= 6'8V | 220Ω | 0,0175A | 2,4V | <img width="1047" height="1047" alt="image" src="https://github.com/user-attachments/assets/19d11b17-4bdf-4388-8b91-e858e1498231" /> |
 
+**- Nombre del componente:** Diodo LED
+**- Color del LED:** Verde
+**- Función:** La función principal de un diodo LED (diodo emisor de luz) es transformar la energía eléctrica en luz mediante el fenómeno físico de la electroluminiscencia.
+**- Problema:** Calcular el voltaje de la fuente de alimentación necesaria para hacer funcionar un diodo LED verde sabiendo que está protegido por una resistencia de 220 ohmios y sabiendo que la intensidad del  LED es de 0,0175A.
+**- Fórmula:**  R=(V<sub>fuente</sub>-V<sub>LED</sub>)/I<sub>LED</sub>
+**- Cálculo:** 220Ω=(V<sub>fuente</sub>-2'4V)/0'0175A→ 220Ω*0'0175A+2'4V= 6'8V
+**- Valor de la resistencia:** 220Ω
+**- Intensidad del LED:** 0,0175A
+**- Voltaje del LED:** 2,4V
+**- Imagen:**  <img width="247" height="247" alt="image" src="https://github.com/user-attachments/assets/19d11b17-4bdf-4388-8b91-e858e1498231" />
+
+
