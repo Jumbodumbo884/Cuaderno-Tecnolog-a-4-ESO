@@ -43,7 +43,7 @@
 
 **- Función:** La función principal de un diodo LED (diodo emisor de luz) es transformar la energía eléctrica en luz mediante el fenómeno físico de la electroluminiscencia.
 
-**- Aplicación:** Indicadores de estado en electrónica: Se usan para mostrar si un aparato está encendido, en modo de espera (standby) o funcionando correctamente (por ejemplo, en fuentes de poder, electrodomésticos o regletas inteligentes)
+**- Aplicación a modo de ejemplo:** Indicadores de estado en electrónica: Se usan para mostrar si un aparato está encendido, en modo de espera (standby) o funcionando correctamente (por ejemplo, en fuentes de poder, electrodomésticos o regletas inteligentes)
 
 **- Problema:** Calcular el voltaje de la fuente de alimentación necesaria para hacer funcionar un diodo LED verde sabiendo que está protegido por una resistencia de 220 ohmios y sabiendo que la intensidad del  LED es de 0,0175A.
 
