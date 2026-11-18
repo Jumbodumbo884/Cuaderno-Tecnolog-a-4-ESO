@@ -37,25 +37,25 @@
 [![](https://img.youtube.com/vi/MYl8VByhM8A/0.jpg)](https://www.youtube.com/watch?v=MYl8VByhM8A)
 
 # Práctica con un diodo LED (verde):
-**- Nombre del componente:** Diodo LED
+**- Nombre del componente:** Diodo LED.
 
-**- Color del LED:** Verde
+**- Color del LED:** Verde.
 
 **- Función:** La función principal de un diodo LED (diodo emisor de luz) es transformar la energía eléctrica en luz mediante el fenómeno físico de la electroluminiscencia.
 
-**- Aplicación a modo de ejemplo:** Indicadores de estado en electrónica: Se usan para mostrar si un aparato está encendido, en modo de espera (standby) o funcionando correctamente (por ejemplo, en fuentes de poder, electrodomésticos o regletas inteligentes)
+**- Aplicación a modo de ejemplo:** Indicadores de estado en electrónica: Se usan para mostrar si un aparato está encendido, en modo de espera (standby) o funcionando correctamente (por ejemplo, en fuentes de poder, electrodomésticos o regletas inteligentes).
 
 **- Problema:** Calcular el voltaje de la fuente de alimentación necesaria para hacer funcionar un diodo LED verde sabiendo que está protegido por una resistencia de 220 ohmios y sabiendo que la intensidad del  LED es de 0,0175A.
 
 **- Fórmula:**  R=(V<sub>fuente</sub>-V<sub>LED</sub>)/I<sub>LED</sub>
 
-**- Cálculo:** 220Ω=(V<sub>fuente</sub>-2'4V)/0'0175A→ 220Ω*0'0175A+2'4V= 6'8V
+**- Cálculo:** 220Ω=(V<sub>fuente</sub>-2'4V)/0'0175A→ 220Ω*0'0175A+2'4V= 6'8V.
 
-**- Valor de la resistencia:** 220Ω
+**- Valor de la resistencia:** 220Ω.
 
-**- Intensidad del LED:** 0,0175A
+**- Intensidad del LED:** 0,0175A.
 
-**- Voltaje del LED:** 2,4V
+**- Voltaje del LED:** 2,4V.
 
 **- Imagen:**  
 <img width="247" height="247" alt="image" src="https://github.com/user-attachments/assets/19d11b17-4bdf-4388-8b91-e858e1498231" />
