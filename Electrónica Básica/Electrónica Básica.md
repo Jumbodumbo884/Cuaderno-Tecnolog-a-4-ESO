@@ -60,4 +60,8 @@
 **- Imagen:**  
 <img width="247" height="247" alt="image" src="https://github.com/user-attachments/assets/19d11b17-4bdf-4388-8b91-e858e1498231" />
 
+# Transistores: 
+codigo: cbc 548 c
+
+
 
