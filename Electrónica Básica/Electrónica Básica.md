@@ -61,7 +61,6 @@
 <img width="247" height="247" alt="image" src="https://github.com/user-attachments/assets/19d11b17-4bdf-4388-8b91-e858e1498231" />
 
 # Transistores: 
-codigo: cbc 548 c
-
-
-
+| Nombre | Función | Tipo | Terminales | Código | Valor | Imagen | 
+| --- | --- | --- | --- | --- | --- | --- |
+| Transistor | La función principal de un transistor es controlar el flujo de corriente eléctrica en un circuito, permitiendo que una señal pequeña regule otra mayor.| NPN | Emisor Base Conector (EBC) | CBC 548 C | 378 de ganancia | <img width="419" height="477" alt="image" src="https://github.com/user-attachments/assets/c870accc-ac99-4f42-868f-ebac1a33f068" /> |
